@@ -6,5 +6,6 @@ namespace HospiEnCasa.App.Dominio{
         public int Id {get;set;}
         public string TarjetaProfesional {get;set;}
         public int HorasLaboradas {get;set;}
+        public string nivel{get;set;}
     }
 }
